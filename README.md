@@ -8,7 +8,7 @@
 - Ram N — 25BCE1353
 - Neeraj M — 25BCE1415
 - Sabhinav Vivith — 25BCE1418
-- Daksinamurthy Kumar — 25BCE1539
+- KG Daksinamurthy Kumar — 25BCE1539
 
 ---
 
